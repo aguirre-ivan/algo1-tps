@@ -1,7 +1,7 @@
-## Algoritmos y programacion I - 95.14
+# Algoritmos y programacion I - 95.14
 Repositorio de trabajos prácticos de la materia [Algoritmos y Programacion I (FIUBA)](https://algoritmos1rw.ddns.net/), correspondiente a la cursada 2020.
 
-# Trabajos práctios
+## Trabajos prácticos
 
 Los trabajos consisten en 3 juegos realizados en base a la librearia gamelib, provista por el profesor.
 
@@ -13,6 +13,6 @@ Los trabajos consisten en 3 juegos realizados en base a la librearia gamelib, pr
 
 [Gamelib](https://github.com/dessaya/python-gamelib) is a pure-Python single-file library/framework for writing simple games. It is intended for educational purposes (e.g. to be used in basic programming courses).
 
-# Examen final
+## Examen final
 
 [Final resuelto](https://github.com/aguirre-ivan/algo1-tps/tree/main/FINAL): Examen final resuelto para practicar.
