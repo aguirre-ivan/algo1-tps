@@ -45,7 +45,3 @@ La única diferencia con el juego real, es que al elegir las cartas para jugar c
 * En el turno de cada jugador, se mostrarán únicamente las cartas del jugador actual (mostrando la parte de atrás de las de los demás jugadores que no les corresponda jugar).
 
 La única diferencia con el juego real, es que al elegir las cartas para jugar cada mano, se irá de un jugador por vez en vez de todos al mismo tiempo (debido a limitaciones de mostrar todo en la misma pantalla).
-
-## Notas
-
-Notar que en esta implementación existe una clase Juego que tiene la mayoría del comportamiento. Queda a decisión del implementador decidir si utilizar esta u otras clases o no (recomendamos que usen al menos alguna clase porque les va a facilitar mantener el estado del juego).
