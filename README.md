@@ -15,4 +15,4 @@ Los trabajos consisten en 3 juegos realizados en base a la librearia gamelib, pr
 
 ## Examen final
 
-[Final resuelto](https://github.com/aguirre-ivan/algo1-tps/tree/main/FINAL): Examen final resuelto para practicar.
+[Final resuelto](https://github.com/aguirre-ivan/algo1-tps/tree/main/FINAL): Examen final resuelto a modo de práctica.
