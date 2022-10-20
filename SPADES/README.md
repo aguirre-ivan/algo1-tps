@@ -45,3 +45,7 @@ La única diferencia con el juego real, es que al elegir las cartas para jugar c
 * En el turno de cada jugador, se mostrarán únicamente las cartas del jugador actual (mostrando la parte de atrás de las de los demás jugadores que no les corresponda jugar).
 
 La única diferencia con el juego real, es que al elegir las cartas para jugar cada mano, se irá de un jugador por vez en vez de todos al mismo tiempo (debido a limitaciones de mostrar todo en la misma pantalla).
+
+### Consigna
+
+Visitar la [pagina de la materia](https://algoritmos1rw.ddns.net/tps/2020-c2/tp3).
